@@ -30,6 +30,8 @@ switch($edad)
         break;
     case 48:
         echo "El doble de tu edad";
+    default:
+        echo "Opción por defecto";
         break;
 }
 ?>
